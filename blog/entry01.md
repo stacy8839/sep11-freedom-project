@@ -7,7 +7,7 @@
 
 ---
 
-## Context
+## Context 🖳
 
 In this SEP course, with the help of freeCodeCamp lessons, classwork, and collaborating with my partner Emmanuel on our **Grocery List Coding Challenge** repository on our codespaces, I learned a lot on how to work with more advanced array structures, including nesting one array within another. I also learned how to manipulate array data using fundamental methods.
 
