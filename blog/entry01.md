@@ -26,11 +26,11 @@ Here are code examples directly from our grocery list project, Taylor Swift insp
 // 1. Nesting one array within another 
 const favoriteEras = [["Taylor Swift", 13], ["Folklore", 2]];
 
-// 2. Using .push() inside our app to add an item
+// 2. Using .push() to add an item
 var newItem = prompt("Type an item you would like to add");
 groceryList.push(newItem);
 
-// 3. Using .pop() and an `if` statement to safely delete the last item
+// 3. Using .pop() and an `if` statement to delete the last item
 var removedItem = groceryList.pop();
 if (removedItem) {
   alert("Removing: " + removedItem);
@@ -54,7 +54,7 @@ I created my own visual mental tricks: 🧠📚⚡
 
 ​2.Pop: Popping a balloon at the end of something (removes from the end). 🎈📍
  
-Shift / Unshift: Working strictly with the front (beginning) of the list. ⫶☰
+3.Shift / Unshift: Working strictly with the front (beginning) of the list. ⫶☰
 
 Me and my partner also ran into technical hurdles during our group project. When Emmanuel and I tried to push and pull our code changes on GitHub or check our work on the HTTP server, nothing was showing up. We first tried to solve the problems ourselves, however we later realized it was better if we asked Mr. Mueller for help. To the naked eye, we couldn't spot any errors at first, and even Mr. Mueller didn't see anything wrong right away. He initially thought we might have accidentally modified code in the the protected "do not change" section or missed placed a parenthesis. To get to the bottom of it, Mr. Mueller ended up running our code through an external site, it just turned out to be a small syntax mistake. Proving how much small details matter in coding. Additionally, when we hit Task 2 and Task 3, I had to figure out if statements although I had never been formally taught in class; and just learned a little on Slack!
 
