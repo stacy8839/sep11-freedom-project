@@ -1,4 +1,4 @@
-# Process Writeup 
+# Arrays Writeup 
 
 ## Name: Stacy M.
 ## Period: 1
