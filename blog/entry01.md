@@ -1,7 +1,6 @@
 # Process Writeup 
 
 ## Name: Stacy M.
-## Date: 09/12
 ## Period: 1
 ## Course: Arrays
 ### Concept: Nested Arrays & Array Methods (`.push()`, `.pop()`, `.shift()`, `.unshift()`)
