@@ -36,7 +36,7 @@ if (removedItem) {
   alert("Removing: " + removedItem);
 }
 
-// 4. Using `if` with logical operators (`&&`) to change a specific item
+// 4. Using `if` (`&&`) to change a specific item
 var changeItem = prompt("Which item do you want to change?");
 var newItem = prompt("What would you like to change it to?");
 if (changeItem && newItem) {
@@ -62,7 +62,7 @@ Me and my partner also ran into technical hurdles during our group project. When
 
 ​To turn my grade around, I studied hard using flashcards on the subject on Quizlet, reviewed my notes carefully, and put in serious extra time, including waking up two hours early before school to study for the quiz to run through practice questions on FFCC.
 
-## Takeaways 𓂃✍︎
+## My Takeaways 𓂃✍︎
 
 ​1.Determination Pays Off: Even though missing a week dropped my first quiz score to a 4/10, staying determined, waking up early, and studying hard helped me drastically improve my performance.
 
