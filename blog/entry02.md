@@ -7,7 +7,7 @@
 
 ---
 
-## Context 
+## Context 🖳‧₊˚
 
 In this SEP course, through video lessons, classwork, DeltaMath practice, ScratchJR, and collaborating with my partner Henson on our Century Coding Challenge (js-2028-century-cc-group-19) repository in Codespaces, I learned how to structure reusable block code using functions. I learned how functions organize code to improve readability and reusability, how parameters pass input, and how return statements send data back out.  
 
@@ -20,7 +20,7 @@ In this SEP course, through video lessons, classwork, DeltaMath practice, Scratc
 * Function Helper Calls: Calling helper functions inside other functions (such as calling `getCentury(year)` inside `printYearCentury(year)`)
 
 
-## Code Examples I Practiced
+## Code Examples I Practiced 👩🏻‍💻💡
 
 Here are real code examples directly from our Century Coding Challenge group project 
 
@@ -85,11 +85,11 @@ function printYearCentury(year) {
 ```
 
 
-## Challenges & Confusions 🧐
+## Challenges & Confusions 🤔❓ 
 
 ​Working through Task 2 during our group project was really tough at first because I struggled to understand how helper functions passed values back and forth.
 
-​Key Technical Problems & How I Solved Them:
+​Key Technical Problems & How I Solved Them: 🔍
 
 1. **Understanding Task 2:** When working on Task 2, I wasn't sure how getCentury(year) worked inside printYearCentury(year). I asked my partner Henson for help, but I was still confused. He asked Mr. Mueller, who explained it to us. It started making more sense, but to really lock it in, I researched extra examples on Google and checked past homework to figure it out step-by-step.
 
@@ -98,7 +98,7 @@ function printYearCentury(year) {
 3. **Casual Demo Confusion:** During a casual demo led by my classmate Emmanuel, seeing different solutions made me feel confused initially. However, listening to questions asked by other classmates helped clear up my own doubts!!
 
 
-## Visual Models and Videos that Helped! 
+## Visual Models and Videos that Helped! 📊 ▶ 
 
 - Scratch Jr Orange Cat: Mr Mueller showed us Scratch Jr examples with the orange cat. Showing us how stacked long, repetitive blocks takes up way too much space. Wrapping those instructions into a single custom block (a function) makes the code much shorter, cleaner, and easier to read.
 
@@ -106,7 +106,7 @@ function printYearCentury(year) {
 [Song Chorus Yt Video:](https://classroom.google.com/c/ODc4NTk4NzQ3NDMx/m/ODkyNzI2ODQ4NzM0/details)
 
 ​
-## My Takeaways
+## My Takeaways ✐ᝰ.ᐟ
 
 **Functions Make Code Clean & Reusable:** Instead of repeating code over and over, wrapping it in functions keeps it organized and readable.  
 
