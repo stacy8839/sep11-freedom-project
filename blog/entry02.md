@@ -1,8 +1,13 @@
-# Entry 2
-##### X/X/XX
+# Functions Writeup 
 
-Text
+## Name: Stacy M.
+## Period: 1
+## Course: Functions
+## Concept: Basic Functions, Parameters, and Return Values
 
-[Previous](entry01.md) | [Next](entry03.md)
+---
 
-[Home](../README.md)
+## Context 🧠
+
+In this SEP course, through video lessons, classwork, DeltaMath practice, ScratchJR, and collaborating with my partner Henson on our Century Coding Challenge (js-2028-century-cc-group-19) repository in Codespaces, I learned how to structure reusable block code using functions. I learned how functions organize code to improve readability and reusability, how parameters pass input, and how return statements send data back out.  
+
