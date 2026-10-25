@@ -93,16 +93,16 @@ function printYearCentury(year) {
 
 1. **Understanding Task 2:** When working on Task 2, I wasn't sure how getCentury(year) worked inside printYearCentury(year). I asked my partner Henson for help, but I was still confused. He asked Mr. Mueller, who explained it to us. It started making more sense, but to really lock it in, I researched extra examples on Google and checked past homework to figure it out step-by-step.
 
-2. **Git & Collaboration Syncing:** Henson and I tried to split Task 3 evenly (50/50) with clear communication, but we ran into GitHub sync confusion regarding whether our latest changes were pushed or pulled properly. 
+2. **Git & Collaboration Syncing:** Henson and I split Task 3 evenly with communication, but we ran into Slack communication problems. 
 
 3. **Casual Demo Confusion:** During a casual demo led by my classmate Emmanuel, seeing different solutions made me feel confused initially. However, listening to questions asked by other classmates helped clear up my own doubts!!
 
 
-## Visual Models and Videos that Helped! 🧠💡
+## Visual Models and Videos that Helped! 
 
-- Scratch Jr Orange Cat: My teacher showed us a Scratch Jr example with the orange cat. Stacking a long, repetitive trail of motion blocks takes up way too much space. Wrapping those instructions into a single custom block (a function) makes the code much shorter, cleaner, and easier to read.
+- Scratch Jr Orange Cat: Mr Mueller showed us Scratch Jr examples with the orange cat. Showing us how stacked long, repetitive blocks takes up way too much space. Wrapping those instructions into a single custom block (a function) makes the code much shorter, cleaner, and easier to read.
 
-- Song Chorus: Instead of typing 12 console.log lines for repeated chorus lyrics, defining a chorus function once.
+- Song Chorus: Instead of typing 12 console.log lines for repeated chorus lyrics, defining a chorus function once is efficient.
 [Song Chorus Yt Video:](https://classroom.google.com/c/ODc4NTk4NzQ3NDMx/m/ODkyNzI2ODQ4NzM0/details)
 
 ​
