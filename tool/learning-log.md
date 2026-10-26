@@ -1,13 +1,17 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Kaboom.js**
 
-## Project: **X**
+## Project: **Cat Recipe Quest ( a cat retrieving banned cookbooks from a forbidden library)**
 
 ---
 
-### X/X/XX:
-* Text
+### 10/25/2026:
+* Some things I tried and the progress I made: I spent time tinkering around with basic code! I initialized Kaboom using kaboom(), changed the background color, and experimented with placing different colored shapes on screen using add(), pos(), and rect().
+
+* Questions I have: How do I load custom image sprites, instead of just using basic colored shapes. 
+  
+* What my next steps are: Practicing loading a custom image for my main cat character using loadSprite() and making it move with the arrow keys. 
 
 ### X/X/XX:
 * Text
