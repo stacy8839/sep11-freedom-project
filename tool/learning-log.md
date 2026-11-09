@@ -13,8 +13,12 @@
   
 * What my next steps are: Practicing loading a custom image for my main cat character using loadSprite() and making it move with the arrow keys. 
 
-### X/X/XX:
-* Text
+### 11/08/26:
+* Some things I tried and the progress I made!!: I slowly figured out how to use `loadSprite()` to bring in my custom cat character image, and I wrote code using `onKeyDown()` and `move()` so the cat can walk with the arrow keys. 
+
+* Questions I have: How do I set up boundaries so the cat doesn't walk right off the edge of the players screen?
+
+* What my next steps are: Adding colliders and boundaries using `area()` and setting up the first banned cookbook item for the cat to collect!!!
 
 
 <!-- 
