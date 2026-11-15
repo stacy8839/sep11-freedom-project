@@ -59,7 +59,7 @@ if (guess === secretColor) {
 
 ​I missed the project announcement day which meant I had to catch up fast, and collaborating on GitHub brought a lot of stress at first. Since our tasks depended on each other, I did Step 1, Jasmine did Step 2, and I needed her code before doing Step 3, we had to constantly git push and git pull our updates and message each other to not encounter a git merge. However, I did ran into one git merge issue and I got really nervous, especially when my code got overwritten or deleted after pulling Jasmine's changes, forcing me to rewrite and debug parts of her and my work.
 
-​We also ran into a bug where the prompt asked the player to "Guess a color from the list!" without actually showing the list of colors anywhere on the screen. Once I spotted that players were guessing blind, I updated line 10 to display all five colors inside the prompt message and pushed the fix and made sure Jasmine knew about the update I did on her code and for her to pull.
+​We also ran into a bug where the prompt asked the player to "Guess a color from the list" without actually showing the list of colors anywhere on the screen. Once I spotted that players were guessing blind, I updated line 10 to display all five colors inside the prompt message and pushed the fix and made sure Jasmine knew about the update I did on her code and for her to pull.
 
 ​Another tricky part was figuring out how to pick a random color. I ended up finding Math.random() and Math.floor() on Google and TikTok because we hadn't covered how Math works in JavaScript yet. I understood just enough to get it working in our function, and when Nile used Math during a casual demo and Mr. Mueller broke down how it works, everything clicked and felt completely grounded in my head. 
 
