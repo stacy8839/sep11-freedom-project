@@ -45,7 +45,7 @@ function getRandomColor(colorArray) {
   return colorArray[randomIndex];
 }
 
-// 4. Win or Loss conditional rules and TAYLOR SWIFT!!!
+// 4. Win or Loss conditional rules and TAYLOR SWIFT PRAISE!!!
 var secretColor = getRandomColor(colors);
 
 if (guess === secretColor) {
@@ -53,9 +53,32 @@ if (guess === secretColor) {
 } else {
   alert("Sorry you lost, " + playerName + "... the secret color was " + secretColor + ". Better luck next time!");
 }
+```
+
+## Challenges and Confusions 🤔
+
+​Missing the project announcement day meant I had to catch up fast, and collaborating on GitHub brought a lot of stress at first. Since our tasks depended on each other, I did Step 1, Jasmine did Step 2, and I needed her code before doing Step 3, we had to constantly git push and git pull our updates and messaged each other. I did ran into one git merge issue and I got really nervous, especially when my code got overwritten or deleted after pulling Jasmine's changes, forcing me to rewrite and debug parts of her and my work.
+
+​We also ran into a usability bug where the prompt asked the player to "Guess a color from the list!" without actually showing the list of colors anywhere on the screen. Once I spotted that players were guessing blind, I updated line 10 to display all five colors inside the prompt message and pushed the fix and made sure Jasmine knew about the update I did on her code.
+
+​Another tricky part was figuring out how to pick a random color. I ended up finding Math.random() and Math.floor() on Google and TikTok because we hadn't covered how Math works in JavaScript yet. I understood just enough to get it working in our function, and when a Nile use Math during a casual demo and Mr. Mueller broke down how it works, everything finally clicked and felt completely grounded in my head. 
+
+---
+
+​## Helpful Tips and Tricks I Used! 
+
+​In order for me to stay organized and avoid any last-minute work, I rewrote our plan.md twice! I turned a very broad and detail lacking first draft into a detailed plan with actual bracket examples like (["red", "blue", "green", "yellow", "purple"]) so Jasmine knew exactly what to build. I kept plan.md open in a tab right next to my Codespaces editor the entire time as my core reference. Because we followed our timeline and communicated nonstop over text whenever one of us pushed or pulled code, we finished everything including bug fixes by Thursday night.
 
 
+​My Takeaways ✍️
 
+​*  A detailed plan.md is the core of a project: Taking extra time to rewrite our plan with specific steps and code examples gave me and Jasmine an easy understanding of what to do from start to finish. 
+
+​* Communication helps build group projects: Texting back and forth before every git push and git pull helped us avoid merge conflicts and keep our 50/50 partnership.
+
+​* Think like our intended audience/player: Testing our game really did help me catch that players couldn't see the color options, proving how important small user-experience details are. As much as I trusted my partner in doing a good job, I am very glad that I double checked.
+
+​* Always pay attention to class demos: Searching Google to solve a problem like for (Math.random() / Math.floor()) and paying attention during class demos helped turn a confusing concept into something I understand now and can use in the future!
 
 [Previous](entry02.md) | [Next](entry04.md)
 
