@@ -45,7 +45,7 @@ function getRandomColor(colorArray) {
   return colorArray[randomIndex];
 }
 
-// 4. Win or Loss conditional rules
+// 4. Win or Loss conditional rules and TAYLOR SWIFT!!!
 var secretColor = getRandomColor(colors);
 
 if (guess === secretColor) {
