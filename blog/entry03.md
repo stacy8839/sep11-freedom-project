@@ -3,23 +3,23 @@
 ## Course: Conditionals and JavaScript 
 ## Concept: Conditionals, Functions,`Math.floor()`, and my Git Collaboration with Jasmine!
 ---
-## Context 
+## Context 🖳‧₊˚
 
 In this SEP course, I collaborated with my partner Jasmine on our **Guess the Color** JavaScript project (`js-2028-jsproject-group-26`),In this project I learned how to combine conditionals, user input, functions, and arrays to build an interactive guess the color game! Although I missed the day the project was announced, Jasmine and I teamed up to create a game that tested all the concepts we have been learning in class.
 
 To keep things fair, we split the tasks 50/50 and I built a detailed `plan.md` file with a clear timeline adjusted to both our schedules and flexibility:
 
-* **Conditionals (`if` / `else if` / `else`):** Creates user responses (like `"yes` or `"no"`) and it also compares the player's color guess to our secret color.
+* **Conditionals ❌✅ (`if` / `else if` / `else`):** Creates user responses (like `"yes` or `"no"`) and it also compares the player's color guess to our secret color.
   
-* **User Input & Output (`prompt()`, `alert()`, `document.write()`):** This welcomes our player, taking their name and color guess, and shows the results on the page.
+* **User Input & Output 🟥🟦🟩🟨🟪(`prompt()`, `alert()`, `document.write()`):** This welcomes our player, taking their name and color guess, and shows the results on the page.
   
-* **Random Selection (`Math.random()` & `Math.floor()`):** This helped pick a random secret color from an array so every round is different and fun to play around.
+* **Random Selection ⛶ (`Math.random()` & `Math.floor()`):** This helped pick a random secret color from an array so every round is different and fun to play around.
   
-* **Our Project Planning (`plan.md`):** We broke the project into 5 clear steps with real code examples and a Tuesday through Friday schedule so we stayed on track, we even finished ahead of time which is a bonus!
+* **Our Project Planning ⏰👥 (`plan.md`):** We broke the project into 5 clear steps with real code examples and a Tuesday through Friday schedule so we stayed on track, we even finished ahead of time which is a bonus!
 
 ---
 
-## Some Code Examples I Practiced 
+## Some Code Examples I Practiced 👩🏻‍💻💡
 
 Here are code examples directly from our **Guess the Color** project, including user input, conditionals, and our random color function!:
 
@@ -55,7 +55,7 @@ if (guess === secretColor) {
 }
 ```
 
-## Challenges and Confusions 🤔
+## Challenges and Confusions 🤔❓
 
 ​I missed the project announcement day which meant I had to catch up fast, and collaborating on GitHub brought a lot of stress at first. Since our tasks depended on each other, I did Step 1, Jasmine did Step 2, and I needed her code before doing Step 3, we had to constantly git push and git pull our updates and message each other to not encounter a git merge. However, I did ran into one git merge issue and I got really nervous, especially when my code got overwritten or deleted after pulling Jasmine's changes, forcing me to rewrite and debug parts of her and my work.
 
@@ -65,12 +65,12 @@ if (guess === secretColor) {
 
 ---
 
-​## Helpful Tips and Tricks I Used 
+​## Helpful Tips and Tricks I Used ⫶☰
 
 ​In order for me to stay organized and avoid any last-minute work, I rewrote our plan.md twice! I turned a very broad and detail lacking first draft into a detailed plan with actual bracket examples like (["red", "blue", "green", "yellow", "purple"]) so Jasmine knew exactly what to build. I kept plan.md open in a tab right next to my Codespaces editor the entire time as my core reference. Because we followed our timeline and communicated nonstop over text whenever one of us pushed or pulled code, we finished everything including bug fixes by Thursday night.
 
 
-​My Takeaways ✍️
+​My Takeaways 🧠💪🏻
 
 ​*  A detailed plan.md is the core of a project: Taking extra time to rewrite our plan with specific steps and code examples gave me and Jasmine an easy understanding of what to do from start to finish. 
 
