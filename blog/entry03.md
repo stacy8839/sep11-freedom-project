@@ -13,7 +13,7 @@ To keep things fair, we split the tasks 50/50 and I built a detailed `plan.md` f
   
 * **User Input & Output 🟥🟦🟩🟨🟪(`prompt()`, `alert()`, `document.write()`):** This welcomes our player, taking their name and color guess, and shows the results on the page.
   
-* **Random Selection ⛶ (`Math.random()` & `Math.floor()`):** This helped pick a random secret color from an array so every round is different and fun to play around.
+* **Random Selection ⛶ (`Math.random()` and `Math.floor()`):** This helped pick a random secret color from an array so every round is different and fun to play around.
   
 * **Our Project Planning ⏰👥 (`plan.md`):** We broke the project into 5 clear steps with real code examples and a Tuesday through Friday schedule so we stayed on track, we even finished ahead of time which is a bonus!
 
