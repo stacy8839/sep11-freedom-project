@@ -72,13 +72,13 @@ if (guess === secretColor) {
 
 ​My Takeaways 🧠💪🏻
 
-​*  A detailed plan.md is the core of a project: Taking extra time to rewrite our plan with specific steps and code examples gave me and Jasmine an easy understanding of what to do from start to finish. 
+​-  A detailed plan.md is the core of a project: Taking extra time to rewrite our plan with specific steps and code examples gave me and Jasmine an easy understanding of what to do from start to finish. 
 
-​* Communication helps build successful group projects: Texting back and forth before every git push and git pull helped us avoid merge conflicts and keep our 50/50 partnership.
+​- Communication helps build successful group projects: Texting back and forth before every git push and git pull helped us avoid merge conflicts and keep our 50/50 partnership.
 
-​* Think like our intended audience/player: Testing our game really did help me catch that players couldn't see the color options, proving how important small user experience details are. As much as I trusted my partner in doing a good job, I am very glad that I double checked.
+​- Think like our intended audience/player: Testing our game really did help me catch that players couldn't see the color options, proving how important small user experience details are. As much as I trusted my partner in doing a good job, I am very glad that I double checked.
 
-​* Always pay attention to class demos: Searching Google and seeing TikTok videos to solve a problem like for (Math.random() / Math.floor()) and paying attention during class demos helped turn a confusing concept I had into something I understand now and can use in the future!
+​- Always pay attention to class demos: Searching Google and seeing TikTok videos to solve a problem like for (Math.random() / Math.floor()) and paying attention during class demos helped turn a confusing concept I had into something I understand now and can use in the future!
 
 [Previous](entry02.md) | [Next](entry04.md)
 
