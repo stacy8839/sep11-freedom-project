@@ -21,6 +21,16 @@
 * What my next steps are: Adding colliders and boundaries using `area()` and setting up the first banned cookbook item for the cat to collect!!!
 
 
+
+### 11/23/2026:
+
+* Some things I tried and the progress I made: I tried placing a few bookshelf obstacles on the screen so the cat has to navigate around them, and I added a banned cookbook sprite that disappears when the cat touches it.
+
+* Questions I have: How can I add a patrolling librarian that moves back and forth, and trigger a Game Over pop up if the cat bumps into them?
+
+* What my next steps are: Coding an increasing score for the player!
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
