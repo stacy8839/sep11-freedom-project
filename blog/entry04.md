@@ -1,7 +1,8 @@
-# Entry 4
-##### X/X/XX
+## Name: Stacy M.
+## Period: 1
+## Concept: 'Loops,' 'tens()' and backwards
 
-Text
+In our current SEP course, we have been actively learning many 
 
 [Previous](entry03.md) | [Next](entry05.md)
 
